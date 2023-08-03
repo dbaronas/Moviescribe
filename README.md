@@ -3,6 +3,8 @@ Description:
 
 Moviescribe is a movie website that utilizes the external API TMDB (The Movie Database) to provide an immersive movie browsing experience. Moviescribe enables users to explore an extensive collection of films, complete with detailed information, captivating posters, and trailers.
 
+Tools: Typescript, React, Tailwind CSS, Express.js, Vite
+
 Functionalities:
 
 Home page: Browse trending movies and TV shows.
